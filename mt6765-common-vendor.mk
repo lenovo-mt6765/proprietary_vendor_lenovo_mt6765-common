@@ -677,6 +677,7 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/mt6765-common/proprietary/vendor/lib/libTEECommon.so:$(TARGET_COPY_OUT_VENDOR)/lib/libTEECommon.so \
     vendor/lenovo/mt6765-common/proprietary/vendor/lib/lib_iir.so:$(TARGET_COPY_OUT_VENDOR)/lib/lib_iir.so \
     vendor/lenovo/mt6765-common/proprietary/vendor/lib/lib_speech_enh.so:$(TARGET_COPY_OUT_VENDOR)/lib/lib_speech_enh.so \
+    vendor/lenovo/mt6765-common/proprietary/vendor/lib/libaedv.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaedv.so \
     vendor/lenovo/mt6765-common/proprietary/vendor/lib/libaudio_param_parser-vnd.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaudio_param_parser-vnd.so \
     vendor/lenovo/mt6765-common/proprietary/vendor/lib/libaudiocompensationfilter_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaudiocompensationfilter_vendor.so \
     vendor/lenovo/mt6765-common/proprietary/vendor/lib/libaudiocompensationfilterc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaudiocompensationfilterc.so \
