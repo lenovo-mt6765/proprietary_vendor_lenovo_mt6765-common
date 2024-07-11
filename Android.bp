@@ -33,6 +33,7 @@ cc_prebuilt_library_shared {
 			srcs: ["proprietary/lib64/libfmjni.so"],
 		},
 	},
+	check_elf_files: false,
 	compile_multilib: "both",
 	prefer: true,
 }
